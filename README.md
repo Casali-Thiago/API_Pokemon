@@ -38,7 +38,7 @@ Este projeto foi desenvolvido como teste técnico para demonstrar:
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/Casali-Thiago/Poketeste.git
+git clone https://github.com/Casali-Thiago/API_Pokemon.git
 cd Poketeste
 ```
 
