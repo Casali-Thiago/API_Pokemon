@@ -1,4 +1,4 @@
-# 🎮 Pokemon Data Fetcher
+# 🎮 Pokemon Lista
 
 Script Python que consome a [PokeAPI](https://pokeapi.co) e exporta os dados dos primeiros 20 Pokémons em uma planilha Excel formatada.
 
